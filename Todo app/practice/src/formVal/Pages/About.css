@@ -1,0 +1,11 @@
+.about{
+    height: 1000px;
+    width: auto;
+    background-image: linear-gradient(to right,yellow,blue,red);
+    
+}
+p{
+    position: absolute;
+    top: 30%;
+    color: white;
+}

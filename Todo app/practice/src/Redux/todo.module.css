@@ -1,0 +1,27 @@
+.main{
+    background-color: aliceblue;
+}
+input[placeholder]{
+    text-align: center;
+}
+.lis{
+    height: 20px;
+    width: 200px;
+    background-color: aliceblue;
+}
+.box1{
+    border-radius: 5px;
+    background-color: azure;
+    height: 50px;
+    width: 200px;
+}
+.box2{
+    border-radius: 5px;
+    background-color: rgba(240, 255, 255, 0.767);
+    height: 200px;
+    width: 200px;
+}
+.main1{
+    display: flex;
+    justify-content: space-evenly;
+}
